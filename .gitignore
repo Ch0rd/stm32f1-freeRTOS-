@@ -58,6 +58,7 @@ dkms.conf
 *.plg
 *.bak
 *.dep
+*.uvoptx
 *.uvguix.*
 OBJ/
 *.crf
@@ -76,4 +77,4 @@ OBJ/
 *.ini
 *.scvd
 *.iex
-
+*
